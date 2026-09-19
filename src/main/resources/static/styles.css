@@ -67,6 +67,12 @@ button {
   cursor: pointer;
 }
 
+#response{
+  border: 1px solid rgb(9, 117, 76); 
+  width : 90%; 
+  white-space: pre-wrap;
+}
+
 
 /* =========================
    Footer
